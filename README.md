@@ -8,4 +8,5 @@ Start the server by pressing Start.Bat. When you run the bat file the server wil
 
 # Updates
 - Added Start.Bat File To Start Server
+- Added The Elua
 
