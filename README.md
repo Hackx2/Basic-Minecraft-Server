@@ -1,5 +1,5 @@
 ![Logo](Icon.png)
-# 1.19 Minecraft Server
+# Basic Minecraft Server
 This github was created by HackDev, also known as HackTheAir.
 This is a simple Minecraft 1.19 server.
 
